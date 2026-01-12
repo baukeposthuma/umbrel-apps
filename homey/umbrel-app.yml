@@ -1,0 +1,7 @@
+manifestVersion: 1
+name: Homey SHS
+version: 1.0.0
+author: Athom
+description: Homey Self Hosted Server
+category: tools
+port: 4859
